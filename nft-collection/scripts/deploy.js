@@ -1,5 +1,3 @@
-// Contract Address: 0x24Ed86C8a3109baA4bfFfAFEB169b1c904508121
-
 const { ethers } = require("hardhat");
 require("dotenv").config({ path: ".env" });
 const { WHITELIST_CONTRACT_ADDRESS, METADATA_URL } = require("../constants");
